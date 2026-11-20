@@ -1,0 +1,11 @@
+﻿apikey.json
+avatar.json
+read.json
+thought.json
+action.json
+request.json
+typing.json
+state.json
+quit.flag
+download/
+node_modules/
